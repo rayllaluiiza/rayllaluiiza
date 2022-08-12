@@ -1,6 +1,6 @@
 <h2> 👩🏻‍💻 Olá, eu sou a Raylla Luiza! </h2>
 
-- 💬 Cursando Sistemas de Informação no IFMG (Instituto Federal de Minas Gerais).
+- 💬 Graduada em Sistemas de Informação.
 - 🎯 Focada em Desenvolvimento Web.
 - 🥇 No momento estou adquirindo mais conhecimento em Laravel, JavaScript e PHP.
 
