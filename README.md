@@ -1,7 +1,7 @@
 <h2> 👩🏻‍💻 Olá, eu sou a Raylla Luiza! </h2>
 
 - 💬 Graduada em Sistemas de Informação.
-- 🥇 No momento estou adquirindo mais conhecimento em Laravel, C# e .NET Core.
+- 🥇 No momento estou adquirindo mais conhecimento em Laravel.
 
 <h2> 💻 Tecnologias & Ferramentas </h2>
 
